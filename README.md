@@ -48,4 +48,4 @@ The dataset used in this project is a dummy financial dataset, carefully created
 
 ## Access the Dashboard
 - **You can view the interactive Finance Dashboard on NovyPro:** [Finance Dashboard](https://project.novypro.com/QMj8DX)
-- **LinkedIn Post about the Project:** [LinkedIn]()
+- **LinkedIn Post about the Project:** [LinkedIn](https://www.linkedin.com/posts/mohamed-roshdy-kharboush_finance-dashboard-activity-7227741530705260544-wRRo?utm_source=share&utm_medium=member_desktop)
