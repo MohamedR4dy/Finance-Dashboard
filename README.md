@@ -44,4 +44,8 @@ The dataset used in this project is a dummy financial dataset, carefully created
 ![Tooltip2](https://github.com/MohamedR4dy/Finance-Dashboard/blob/main/Tooltip2.png)
 
 ### Date Slicer
-![Date Slicer](https://github.com/MohamedR4dy/Finance-Dashboard/blob/main/Date_Slicer.png)
+![Date Slicer](https://github.com/MohamedR4dy/Finance-Dashboard/blob/main/Date_Slicer.png
+
+## Access the Dashboard
+- **You can view the interactive Finance Dashboard on NovyPro:** [Finance Dashboard](https://project.novypro.com/QMj8DX)
+- **LinkedIn Post about the Project:** [LinkedIn]()
